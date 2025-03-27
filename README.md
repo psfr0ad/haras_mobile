@@ -1,6 +1,6 @@
-# mon_projet
+# haras_mobile
 
-A new Flutter project.
+Un projet d'études 
 
 ## Getting Started
 
